@@ -1,0 +1,9 @@
+.matrix-box {
+    height: 100px; 
+    width: 100px;
+    background-color: #00f;
+}
+
+.active.matrix-box{
+    background-color: #f00;
+}

@@ -1,0 +1,13 @@
+.matrix-continer{
+  margin: 100px auto;
+  display: flex;
+  max-width: 400px;
+  flex-wrap: wrap;
+  border-top: 2px solid #000;
+  border-left: 2px solid #000;
+}
+.matrix-continer .matrix-box{
+  box-sizing: border-box;
+  border-bottom: 2px solid #000;
+  border-right: 2px solid #000;
+}
